@@ -17,7 +17,8 @@ The program does the following:
   7. The answer to the question whether the given number is divisible by 3 is displayed on the screen.
 
 
-IsNumberDividesBy3. Занятия по Python. Алгоритмы. Простой ввод-вывод. Консольное приложение.
+IsNumberDividesBy3. Занятия по Python. Алгоритмы. Простой ввод-вывод. Консольное приложение. Определение количества цифр числа, введённого с клавиатуры.
+Ответ на вопрос делится ли данное число на 3.
 Проект консольного приложения (скрипт) написан на языке программирования Python и реализован в интегрированной среде Spyder 
 (в редакторе Microsoft Visual Studio Code). 
 Данная программа делает следующее:
