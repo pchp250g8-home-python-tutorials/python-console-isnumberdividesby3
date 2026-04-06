@@ -1,4 +1,4 @@
-SumOfdigits. Python tutorials.  Algorithms. Simple Input/Output. Console Application. 
+IsNumberDividesBy3. Python tutorials.  Algorithms. Simple Input/Output. Console Application. 
 A console application project written in the Python programming language and implemented in the Spyder integrated environment 
 (in the Microsoft Visual Studio Code editor). 
 The Python script provides simple input/output. Determining the sum of digits in a number entered from the keyboard.
@@ -14,7 +14,7 @@ The program does the following:
   5. The entered number and the sum of its digits are displayed on the screen.
 
 
-SumOfdigits. Занятия по Python. Алгоритмы. Простой ввод-вывод. Консольное приложение.
+IsNumberDividesBy3. Занятия по Python. Алгоритмы. Простой ввод-вывод. Консольное приложение.
 Проект консольного приложения (скрипт) написан на языке программирования Python и реализован в интегрированной среде Spyder 
 (в редакторе Microsoft Visual Studio Code). 
 Данная программа делает следующее:
