@@ -2,6 +2,7 @@ IsNumberDividesBy3. Python tutorials.  Algorithms. Simple Input/Output. Console 
 A console application project written in the Python programming language and implemented in the Spyder integrated environment 
 (in the Microsoft Visual Studio Code editor). 
 The Python script provides simple input/output. Determining the sum of digits in a number entered from the keyboard.
+Answer to the question whether a given number is divisible by 3.
 The program does the following:
   1. Prompts the user for an integer.
   2. Sets the sum of digits variable to zero.
